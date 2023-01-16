@@ -1,0 +1,9 @@
+export const AUTH_SIGNIN_URL = 'http://localhost:8080/auth/signin';
+export const AUTH_SIGNUP_URL = 'http://localhost:8080/auth/signup';
+export const USER_GET_PROFILE_URL = 'http://localhost:8080/users/owner/';
+export const USER_GET_ADDRESSES_URL = 'http://localhost:8080/users/owner/addresses';
+export const USER_UPDATE_PROFILE_URL = 'http://localhost:8080/users/owner/';
+export const USER_ADD_ADDRESS_URL = 'http://localhost:8080/users/owner/addresses';
+export const USER_DELETE_ADDRESS_URL = 'http://localhost:8080/users/owner/addresses/';
+export const USER_UPDATE_ADDRESS_URL = 'http://localhost:8080/users/owner/addresses/';
+export const BACKEND_SERVER = 'http://localhost:8080';
